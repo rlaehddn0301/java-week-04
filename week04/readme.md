@@ -17,7 +17,8 @@ public class Main {
   4) int score = 85;
      if(80 < score < 90) System.out.print(score);
 
-``` 풀이 : 
+```
+풀이 : 
 1) while 문의 조건식은 반드시 논리(boolean) 값이어야 한다. 1은 정수이므로 오류가 발생한다. true나 false와 같은 논리 값으로 수정해야 한다.
     수정된 코드: while (true) {}
 
