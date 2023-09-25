@@ -7,7 +7,6 @@ java 4주차 레포트
         final double bodytemp = 36.5; // 체온을 36.5로 초기화한 double형 상수
         System.out.println("체온: " + bodytemp + "℃");
     }
-}
 ```
 
 7. 다음 각 항목의 코드에서 컴파일 오류를 수정하라
