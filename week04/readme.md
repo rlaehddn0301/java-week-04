@@ -2,7 +2,8 @@ java 4주차 레포트
 =================
 
 6. 체온 값 36.5로 초기화된 상수 bodytemp를 double형으로 선언하라.
-   ```public class Main {
+```
+public class Main {
     public static void main(String[] args) {
         final double bodytemp = 36.5; // 체온을 36.5로 초기화한 double형 상수
         System.out.println("체온: " + bodytemp + "℃");
