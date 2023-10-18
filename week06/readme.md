@@ -415,7 +415,7 @@ public class SubjectScore {
        </pre>
     3) 다음과 같이 실수가 입력되면 정수를 다시 입력하도록 하여 예외 없이 정상적으로 처리되도록 예외 처리 코드를 삽입하여 Multiply  클래스를 수정하라.
 
-       <pre>
+<pre>
 	       import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -442,5 +442,4 @@ public class Multiply {
         scanner.close();
     }
 }
-
-       </pre>
+</pre>
